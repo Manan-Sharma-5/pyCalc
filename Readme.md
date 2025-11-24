@@ -1,3 +1,3 @@
-# Simple Python Calculator
+# Interactive Python Calculator
 
-This project performs basic arithmetic operations and is to test git operations.
+Supports multiple arithmetic operations using user input and to test git operations.
